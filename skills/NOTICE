@@ -1,0 +1,22 @@
+# NOTICE
+
+## 本仓库内容
+
+本仓库文档（含 `arch-blueprint` 与 `software-architect` 两个技能、其中的角色提示词、模板与示例）均为**原创作品**，采用 MIT 许可（见 `LICENSE`，版权人 HAIJAIWE）。
+
+## 概念与方法的说明
+
+文中讨论的**概念与方法**——依赖方向、稳定依赖原则、限界上下文、架构决策记录、权衡矩阵、Rule of Three、限流与幂等、测试金字塔等——属于**公共知识**，任何人都可使用，不受版权保护。
+版权只约束**具体的文字表达**。本仓库不使用任何第三方的文字表达。
+
+## 引用（仅列名称，未使用其内容）
+
+文中提到的标准、框架与项目**只作为概念来源与对照引用**，未复制其正文，版权归各自所有者：
+
+Clean Architecture（Robert C. Martin）· 领域驱动设计 DDD（Eric Evans）· C4 model（Simon Brown）· arc42 · ADR / Architecture Decision Records（Michael Nygard）· The Twelve-Factor App · ISO/IEC 42010 · ISO/IEC 25010 · OWASP（Top 10 / ASVS / Cheat Sheet Series / Securing Agentic Applications）· Microsoft AutoGen 与 Magentic-One · LangGraph · CrewAI · OpenAI Agents SDK · Vercel AI SDK · Test Pyramid（Mike Cohn）· Strangler Fig（Martin Fowler）· Semantic Versioning · ThoughtWorks Technology Radar · AWS / Azure 架构中心 · Alistair Cockburn（六边形架构）· Jimmy Bogard（垂直切片架构）
+
+若你是上述项目的维护者并认为引用方式不当，请提 issue，我们会修正或删除。
+
+## 本仓库自身
+
+MIT — 见 `LICENSE`（版权人 HAIJAIWE）。
