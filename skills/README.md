@@ -30,8 +30,7 @@ This kit turns those four into **executable checklists, exit criteria and accept
 ## What's inside
 
 ```
-skills/
-├── arch-blueprint/                  the main skill
+arch-blueprint/                    the main skill
 │   ├── SKILL.md                     routing + hard rules + output discipline
 │   ├── references/                  20+ topic references (see REFERENCE-INDEX.en.md)
 │   │   ├── roadmap.md               8 phases, artifacts, exit criteria, scale-fitting
@@ -49,7 +48,7 @@ skills/
 │   └── assets/expert-definition.md  host-agnostic role prompt ("Project Navigator")
 ├── REFERENCE-INDEX.en.md            English one-liners for every reference file
 ├── README.md / README.zh-CN.md      English (primary) / Chinese
-├── NOTICE                           third-party attribution
+├── NOTICE                           copyright & citation notes
 └── LICENSE                          MIT
 ```
 

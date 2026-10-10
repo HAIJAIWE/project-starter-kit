@@ -1,0 +1,30 @@
+# Exclusions for publishing: the items below contain internal information — never upload them.
+
+# Review / experiment artifacts (unfixed vulnerability lists: publishing these is self-disclosure)
+test-review/
+**/test-review/
+*-red.txt
+*ground-truth*
+
+# Local configuration and credentials
+.credentials*
+*.credentials.*
+.env
+.env.*
+!.env.example
+*.bak
+*.bak-*
+cordis.patch.yml
+
+# Dependencies and build output
+node_modules/
+dist/
+out/
+build/
+*.tsbuildinfo
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/settings.json
